@@ -74,6 +74,7 @@ cd Database
 npm install
 ```
 
+
 ### 3️⃣ Configure environment variables
 
 Create a `.env` file:
@@ -85,6 +86,7 @@ DB_USER=your_user
 DB_PASSWORD=your_password
 DB_PORT=5432
 ```
+
 
 ### 4️⃣ Start the development server
 
